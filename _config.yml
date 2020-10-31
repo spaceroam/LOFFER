@@ -82,10 +82,10 @@ gitalk:
   owner: 
 
 # 输入Google Analytics web tracking code
-google_analytics:
+google_analytics: 3297772
 
 utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
+  repo: https://github.com/spaceroam/LOFFER # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!
