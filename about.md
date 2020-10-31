@@ -1,7 +1,13 @@
 ---
 layout: page
-title: 关于
+title: 其他
 permalink: /about/
 ---
 
-这是一个关于页面，请编辑about.md以介绍你的博客。
+我在找一个剑胆琴心，侠骨柔肠的人。
+
+Wir alle fallen. Diese Hand da fällt.
+Und sieh dir andre an: es ist in allen.
+
+Und doch ist Einer, welcher dieses Fallen
+unendlich sanft in seinen Händen hält. 
