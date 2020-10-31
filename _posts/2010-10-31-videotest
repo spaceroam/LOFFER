@@ -1,0 +1,25 @@
+---
+layout: post
+title: 测试音乐
+date: 2020-10-31
+author: 七弦
+tags: [听歌, youtube]
+comments: true
+toc: false
+pinned: false
+---
+
+### Video
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+Culpa qui officia deserunt mollit anim id est laborum.
+
+<!--more-->
+
+video test beginns
+
+
+<iframe src="//player.vimeo.com/video/103224792" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+video test ends.
