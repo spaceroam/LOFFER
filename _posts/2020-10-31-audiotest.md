@@ -2,8 +2,8 @@
 layout: post
 title: 测试音乐和视频
 date: 2020-10-31
-author: 来自中世界
-tags: [听歌，youtube]
+author: 七弦
+tags: [听歌, youtube]
 comments: true
 toc: false
 pinned: false
@@ -14,7 +14,8 @@ pinned: false
 
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-audio test begins
+
+audio test begins <!-- more -->
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/52891122&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
