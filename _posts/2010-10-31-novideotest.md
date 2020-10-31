@@ -4,6 +4,7 @@
  date: 2020-10-31 
  author: 七弦 
  tags: [听歌, youtube] 
+ youtubePlayer: true
  comments: true 
  toc: false 
  pinned: false 
