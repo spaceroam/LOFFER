@@ -4,6 +4,7 @@ title: 测试视频
 date: 2020-10-31
 author: 七弦
 tags: [听歌, youtube]
+youtubeId: TvjsFa6tWDA
 comments: true
 toc: false
 pinned: false
@@ -19,9 +20,6 @@ Culpa qui officia deserunt mollit anim id est laborum.
 
 video test beginns
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TvjsFa6tWDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
+{% include youtubePlayer.html id=page.youtubeId %}
 
 video test ends.
