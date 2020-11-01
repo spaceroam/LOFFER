@@ -4,7 +4,7 @@
  date: 2020-10-31 
  author: 七弦 
  tags: [听歌, youtube] 
- youtubePlayer: true
+ youtubeId: bty7LHm14CA
  comments: true 
  toc: false 
  pinned: false 
@@ -14,5 +14,7 @@
    Culpa qui officia deserunt mollit anim id est laborum. 
    <!--more--> 
    video test beginns 
+   
+   {% include youtubePlayer.html id=page.youtubeId %}
    
    video test ends. 
