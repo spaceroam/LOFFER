@@ -16,5 +16,6 @@ LaTeX渲染已经在全站头部文件引入，可以直接使用，
    Culpa qui officia deserunt mollit anim id est laborum. 
    
    video test beginns 
+   {% include youtubePlayer.html id=TvjsFa6tWDA %}
    
    video test ends. 
