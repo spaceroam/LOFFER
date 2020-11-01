@@ -7,9 +7,8 @@ tags: [Test]
 comments: true
 ---
 ### Audio
-测试插入外链音频。
-
-spotify test 
+测试插入spotify音频。
+<!--more-->
 
 像我这种男人
 
