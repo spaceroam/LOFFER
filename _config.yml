@@ -84,6 +84,9 @@ gitalk:
 # 输入Google Analytics web tracking code
 google_analytics: 3297772
 
+# 激活youtube player
+youtubePlayer: youtubePlayer
+
 utteranc:
   repo: https://github.com/spaceroam/LOFFER # Your github repo path, also see: https://utteranc.es
 
