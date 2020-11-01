@@ -8,8 +8,8 @@ comments: true
 ---
 ### Audio
 测试插入外链音频。
-
-spotify test <!--more-->
+<!--more-->
+spotify test 
 
 像我这种男人
 spotify test beginns 
