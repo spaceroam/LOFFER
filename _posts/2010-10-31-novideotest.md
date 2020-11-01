@@ -4,7 +4,6 @@
  date: 2020-10-31 
  author: 七弦 
  tags: [听歌, youtube] 
- youtubeId: bty7LHm14CA
  comments: true 
  toc: false 
  pinned: false 
@@ -15,6 +14,6 @@
    <!--more--> 
    video test beginns 
    
-   {% include youtubePlayer.html id=page.youtubeId %}
+  {% include youtubePlayer.html id=TvjsFa6tWDA %}
    
    video test ends. 
