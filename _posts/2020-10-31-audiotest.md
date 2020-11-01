@@ -7,13 +7,13 @@ tags: [Test]
 comments: true
 ---
 ### Audio
-测试插入spotify音频。
+测试去掉spotify音频。
 <!--more-->
 
 像我这种男人
 
 spotify test beginns 
 
-<iframe width="300" height="380" src="https://open.spotify.com/embed/track/48uzkr9lwCShOre00TvbVj"  frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 spotify audio test ends
