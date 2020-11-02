@@ -75,17 +75,17 @@ footer-text: Copyright (c) 2020 七弦 / 7strings
 disqus: timeharbor #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+#gitalk:
+ # clientID: 
+ #clientSecret: 
+ #repo: 
+ #owner: 
 
 # 输入Google Analytics web tracking code
 google_analytics: 251288926
 
-utteranc:
-  repo: https://github.com/spaceroam/LOFFER # Your github repo path, also see: https://utteranc.es
+#utteranc:
+#repo: https://github.com/spaceroam/LOFFER # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!
