@@ -5,6 +5,7 @@ title: 视频测试
 Author: 七弦
 tags: [Test]
 comments: true
+pinned: true
 ---
 ### Video
 测试插入youtube视频。
