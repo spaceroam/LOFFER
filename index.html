@@ -87,9 +87,10 @@ layout: default
           {%   else %}{{ post.content | lstrip | split: "
 " | first }}{% endif %}
           <p>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
           </p>
         </div>
+      
     {% endunless %}
   {% endfor %}
 </div>
