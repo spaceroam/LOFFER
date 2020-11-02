@@ -24,10 +24,10 @@ baseurl: "/blog"
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/spaceroam/blog/master/images/AnchorLogo.png
+avatar: {{site.baseurl}}/images/AnchorLogo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/spaceroam/blog/master/images/AnchorFavicon.png
+favicon: {{site.baseurl}}/images/AnchorFavicon.png
 
 # 菜单中的按钮
 navigation:
@@ -68,10 +68,6 @@ footer-links:
 # 站点页脚的文字
 footer-text: Copyright (c) 2020 七弦 / 7strings
 
-#
-# 评论，注意，请不要同时添加多种不同的评论区
-#
-
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
 disqus: timeharbor #shortname
 
@@ -84,9 +80,6 @@ disqus: timeharbor #shortname
 
 # 输入Google Analytics web tracking code
 google_analytics: 251288926
-
-#utteranc:
-#repo: https://github.com/spaceroam/LOFFER # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!
