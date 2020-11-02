@@ -52,6 +52,7 @@ layout: default
   {% for post in paginator.posts %}
     {% unless post.pinned %}
     <article class="post">
+      <li>
       <h1>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h1>
@@ -72,6 +73,7 @@ layout: default
             <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
               {{ tag }}
             </a>
+          </li>
           </li>
           {% endfor %}
         </ul>
