@@ -12,8 +12,10 @@ youtubeId: bty7LHm14CA
 方法一在Youtube视频找share--embed，直接copy代码即可。
     
 video test 1 beginns： 
-   
+
+<div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bty7LHm14CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
    
    video test ends. 
    
@@ -41,3 +43,5 @@ video test 3 ends.
 这次成功了！果然是这个错误。而昨天之所以不成功就还是那个隔离行的问题。
 
 最后再来试一下responsive框架，也成功了！要把这段代码放到stylesheet也就是style.css里，我昨天直接放在根目录当然没用。不过只针对方法二三，方法一直接嵌入对此无反应。所以本来觉得直接嵌入更方便，以后还是要使用这个方法更好。
+
+再试一遍把
