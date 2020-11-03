@@ -14,3 +14,6 @@ unendlich sanft in seinen Händen hält.
 
 <script async src="https://cse.google.com/cse.js?cx=e4e02e8d1fbfa5faa"></script>
 <div class="gcse-search"></div>
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
