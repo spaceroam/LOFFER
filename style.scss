@@ -729,7 +729,7 @@ footer {
     svg {
       height: 20px;
       width: 20px;
-      fill: $link-color;
+      fill: $base-lighten-color;
       
       &:hover {
         fill: $link-lighten-color;
