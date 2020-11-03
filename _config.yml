@@ -114,12 +114,6 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
 
-  var sjs = SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-  json: '/search.json'
-})
-
 # Exclude these files from your production _site
 exclude:
   - Gemfile
