@@ -4,6 +4,7 @@ title: 视频测试
 date: 2020-11-02
 Author: 七弦
 tags: Test Youtube
+youtubeId: bty7LHm14CA
 ---
 
 测试插入youtube视频。
@@ -20,8 +21,9 @@ video test 1 beginns：
 
 video test 2 beginns:
 
-{% include youtubePlayer.html id=bty7LHm14CA %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 video test 2 ends
 
 第一次测试方法二失败，成功显示视频框架但无法播放。再试一次。
+第一次是直接输入id，第二次改用原文中输入变量的方法。理论上应该一样，再碰碰运气吧。
