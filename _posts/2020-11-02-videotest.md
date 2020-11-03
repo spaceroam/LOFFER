@@ -12,7 +12,7 @@ tags: Test Youtube
     
 video test 1 beginns： 
    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bty7LHm14CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="480" src="https://www.youtube.com/embed/bty7LHm14CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
    video test ends. 
    
@@ -20,6 +20,8 @@ video test 1 beginns：
 
 video test 2 beginns:
 
-{% include youtubePlayer.html id=oQc-2gsjgDg %}
+{% include youtubePlayer.html id=bty7LHm14CA %}
 
 video test 2 ends
+
+第一次测试方法二失败，成功显示视频框架但无法播放。再试一次。
