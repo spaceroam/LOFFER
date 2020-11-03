@@ -13,7 +13,7 @@ youtubeId: bty7LHm14CA
     
 video test 1 beginns： 
    
-<iframe width="700" height="480" src="https://www.youtube.com/embed/bty7LHm14CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bty7LHm14CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
    video test ends. 
    
@@ -27,3 +27,14 @@ video test 2 ends
 
 第一次测试方法二失败，成功显示视频框架但无法播放。再试一次。
 第一次是直接输入id，第二次改用原文中输入变量的方法。理论上应该一样，再碰碰运气吧。
+
+哈，用了变量竟然成功了。所以之前是输入ID的方法不对？我再来试一遍：
+
+方法三，ID加引号
+
+video test 3 beginns:
+
+{% include youtubePlayer.html id="bty7LHm14CA" %}
+
+video test 3 ends.
+
