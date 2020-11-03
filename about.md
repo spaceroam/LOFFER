@@ -19,5 +19,3 @@ unendlich sanft in seinen Händen hält.
   <ul id="results-container"></ul>
 </div>
 
-<!-- script pointing to jekyll-search.js -->
-<script src="/simple-jekyll-search.min.js"></script>
