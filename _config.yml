@@ -10,6 +10,9 @@
 name: Time Harbor
 description: 大时代的避风港
 
+# 时区
+timezone: America/Atlanta
+
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: "https://spaceroam.github.io"
 
