@@ -12,7 +12,6 @@ Und sieh dir andre an: es ist in allen.<p>
 Und doch ist Einer, welcher dieses Fallen<br>
 unendlich sanft in seinen Händen hält. 
 
-搜索本站
 <!-- HTML elements for search -->
 <div id="search-container">
   <input type="text" id="search-input" placeholder="search...">
