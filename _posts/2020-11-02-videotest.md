@@ -44,4 +44,6 @@ video test 3 ends.
 
 最后再来试一下responsive框架，也成功了！要把这段代码放到stylesheet也就是style.css里，我昨天直接放在根目录当然没用。不过只针对方法二三，方法一直接嵌入对此无反应。所以本来觉得直接嵌入更方便，以后还是要使用这个方法更好。
 
-再试一遍把
+再试一遍把方法一加上embed-container，也变成responsive了！那么方法一需要多打div class="embed-container"></div这样一对代码，方法二三需要打include youtubePlayer.html id=...以及要复制代码。似乎各有各的不方便。在一和三之间选。
+
+
