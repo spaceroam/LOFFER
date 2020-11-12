@@ -5,7 +5,7 @@ Author: 羊肉烤黄皮子
 tags: 美国华人
 ---
 
-来源：https://www.douban.com/note/783766226/
+来源：[](https://www.douban.com/note/783766226/)
 
 留美中国人可谓集大成者，鄙视链的上游到下游都充满了令人捧腹的笑料。鄙视链最下端的访问学者自然不用多说，访问学者这四个字就是好笑一词的宣传册。留学生就更哈哈哈哈了，真当自己是来学习的了？往上的h1b苦逼们，绿卡排期不敢回国，当作自己没亲爹妈。Eb5们更蠢，以为自己精，其实钱基本是赚不回来的，最后学福州人搞些不三不四的产业。
 
@@ -27,4 +27,4 @@ Pawan Dhingra在NYU出版的新书中分析了一下亚裔的内卷补课问题�
 
 
 
-![](https://img9.doubanio.com/view/note/l/public/p77496775.webp)
+![Asian School Girl](https://img9.doubanio.com/view/note/l/public/p77496775.webp)
