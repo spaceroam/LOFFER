@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 美华以为自己不是nigger，实力坑娃
+date: 2020-11-11 22:00:00 -0500
 Author: 羊肉烤黄皮子
 tags: 美国华人
 ---
