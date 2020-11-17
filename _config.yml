@@ -69,7 +69,7 @@ footer-links:
   
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2020 七弦 / 7strings
+footer-text: Copyright © 2020 七弦 / 7strings
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
 disqus: timeharbor #shortname
