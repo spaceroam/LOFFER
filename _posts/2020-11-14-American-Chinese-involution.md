@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 关于高华和内卷
+author: 七弦
 date: 2020-11-14 02:00:00 -0500
 tags: 美国华人 随想
 ---
